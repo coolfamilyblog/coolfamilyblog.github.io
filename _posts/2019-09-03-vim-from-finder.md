@@ -6,6 +6,7 @@ author: "Hux"
 header-style: text
 tags:
   - Vim
+categories: test
 ---
 
 我的日常主力编辑器主要是：

@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     davidnsw
+zhihu_username:     davidnsw
+github_username:    davidnsw
+twitter_username:   davidnsw
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -74,7 +74,18 @@ netease_comment: false
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 ga_domain: xxx
 
+# 添加category内容  davidadd
+permalink: /:categories/:title/
 
+# List of links in the navigation bar - davidadd
+navbar-links:
+  HOME: "https://coolfamilyblog.github.io./archive/"
+  CATEGORIES: "https://coolfamilyblog.github.io./categories/"
+  ARCHIVE: "https://coolfamilyblog.github.io./archive/"
+  项目:
+    - Baby : "https://davidnsw.github.io/twins/"
+  关于我: "about"
+  搜索: "search"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
