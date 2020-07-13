@@ -1,5 +1,5 @@
 # Site settings
-title: Family Blog
+title: Cool Family Blog
 SEOTitle: Cool Family Blog | DS
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
@@ -74,18 +74,6 @@ netease_comment: false
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 ga_domain: xxx
 
-# 添加category内容  davidadd
-permalink: /:categories/:title/
-
-# List of links in the navigation bar - davidadd
-navbar-links:
-  HOME: "https://coolfamilyblog.github.io"
-  CATEGORIES: "https://coolfamilyblog.github.io./category/"
-  ARCHIVE: "https://coolfamilyblog.github.io./archive/"
-  项目:
-    - Baby : "https://davidnsw.github.io/twins/"
-  关于我: "about"
-  搜索: "search"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
