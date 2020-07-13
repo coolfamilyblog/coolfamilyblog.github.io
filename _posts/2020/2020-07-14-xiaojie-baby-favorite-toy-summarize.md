@@ -5,6 +5,8 @@ subtitle: "Summarize baby toy, favorite toy ranking"
 author: "David CHEN"
 header-img: "img/post-bg-miui6.jpg"
 header-mask: 0.4
+categories: Social
+excerpt: 这一片blog将全面记录宝宝最喜欢的玩具，以及随着时间的推移宝宝，最喜欢的玩具的变化过程。
 tags:
   - 小结
   - 玩具
