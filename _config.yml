@@ -79,8 +79,8 @@ permalink: /:categories/:title/
 
 # List of links in the navigation bar - davidadd
 navbar-links:
-  HOME: "https://coolfamilyblog.github.io./archive/"
-  CATEGORIES: "https://coolfamilyblog.github.io./categories/"
+  HOME: "https://coolfamilyblog.github.io"
+  CATEGORIES: "https://coolfamilyblog.github.io./category/"
   ARCHIVE: "https://coolfamilyblog.github.io./archive/"
   项目:
     - Baby : "https://davidnsw.github.io/twins/"
