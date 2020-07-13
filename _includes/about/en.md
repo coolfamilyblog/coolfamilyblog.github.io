@@ -10,9 +10,9 @@ As time goes by, we will gradually forget many things. After a few years, I hope
 
 
 ##### Sharing
-[David's Blog)](https://davidnsw.github.io/homepage/)
+[David's Blog](https://davidnsw.github.io/homepage/)
 
 ##### Reading
-> * [Douban](https://www.douban.com/people/55478060/)
-> * [Goodreads](https://www.goodreads.com/user/show/57208002-david)
-> * [2020 books](https://www.notion.so/Reading-List-2020-f0272ce4e636400882e2269fab217241)
+[Douban](https://www.douban.com/people/55478060/)
+[Goodreads](https://www.goodreads.com/user/show/57208002-david)
+[2020 books](https://www.notion.so/Reading-List-2020-f0272ce4e636400882e2269fab217241)
