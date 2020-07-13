@@ -5,7 +5,7 @@ Hi, here is Selene and Sally's family blog. We will use this blog to record inte
 As time goes by, we will gradually forget many things. After a few years, I hope that the content here can help us to retrieve some sweet memories.
 
 
-##### [Twins milestones timeline)](https://huangxuan.me/2020/05/05/pl-chart/)
+##### [Twins milestones timeline)](https://davidnsw.github.io/twins/)
 
 
 

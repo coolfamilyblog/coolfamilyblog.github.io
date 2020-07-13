@@ -5,7 +5,7 @@ Hi，这里是Selene 和 Sally的家庭博客。我们将这里记录家庭生�
 随着时光的流逝，很多事情我们都将渐渐地忘记。若干年以后，希望这里的文字能帮助我们找回哪些甜美的回忆。
 
 
-##### [Selene 和Sally成长轨迹](https://huangxuan.me/2020/05/05/pl-chart/)
+##### [Selene 和Sally成长轨迹](https://davidnsw.github.io/twins/)
 
 
 
