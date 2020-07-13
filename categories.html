@@ -1,46 +1,88 @@
 ---
-layout: page
+title: CATEGORIES
+layout: default
 permalink: /categories/
-title: 博文分类
+description: 根据不同的分类查看博文
+header-img: "img/tag-bg.jpg"
 ---
 
-<!--添加搜索框-->
-<br/>
-<!-- HTML elements for search -->
-<input type="text" id="search-input" placeholder="搜索博客 - 输入标题/相关内容/日期/Tags.." style="width:380px;"/>
-<ul id="results-container"></ul>
+<!-- 
+Credits: this page shamelessly borrowed a lot from:
+https://github.com/kitian616/jekyll-TeXt-theme
+-->
+<!-- Page Header -->
+{% include intro-header.html type='page' short=true %}
 
-<!-- script pointing to jekyll-search.js -->
-<script src="\{\{ site.baseurl \}\}/js/simple-jekyll-search.min.js"></script>
+<!-- Main Content -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <!-- Tags (as filter) -->
+            <div id='category_cloud' class="categories categories-sup js-categories">
+                <a class="category-button--all" data-encode="">
+                    Show All
+                    <sup>{{site.posts.size}}</sup>
+                </a>
 
-<script>
-SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '/search.json',
-    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-    noResultsText: '没有搜索到文章',
-    limit: 20,
-    fuzzy: false
-  })
-</script>
-<br/>
+                {% capture categories %}
+                {% for category in site.categories %}
+                <a data-sort="{{ site.posts.size | minus: category[1].size | prepend: '0000' | slice: -4, 4 }}"
+                    data-encode="{{ category[0] | strip | url_encode }}"
+                    class="category-button"
+                    title="{{ category[0] }}" rel="{{ category[1].size }}">
+                    {{ category[0] }}
+                    <sup>{{category[1].size}}</sup>
+                </a>__SEPERATOR__
+                {% endfor %}
+                {% endcapture %}
+        {{ categories | split:'__SEPERATOR__' | sort }}
+            </div>
+
+            <!-- Article List -->
+            <div class="mini-post-list js-result d-none">
+            {%- assign _sorted_list = site.posts -%}
+            {%- assign _sorted_list = _sorted_list | sort: 'date' -%}
+            {%- assign _sorted_list = _sorted_list | reverse -%}
 
 
-<div id="archives">
-{\%\for category in site.categories \%\}
-  <div class="archive-group">
-    {\%\capture category_name \%\}\{\{ category | first \}\}{\%\endcapture \%\}
-    <div id="#\{\{ category_name | slugize \}\}"></div>
-    <p></p>
+            {%- for _article in _sorted_list -%}
+                {%- assign categories = '' -%}
+                {%- for category in _article.categories -%}
+                    {%- assign _category_encode = cotegory | strip | url_encode -%}
+                    {%- if forloop.last -%}
+                        {%- assign categories = _cotegories | append: _category_encode -%}
+                    {%- else -%}
+                        {%- assign _cotegories = _cotegories | append: _category_encode | append: ',' -%}
+                    {%- endif -%}
+                {%- endfor -%}
 
-    <h3 class="category-head">\{\{ category_name \}\} (\{\{site.categories[category_name].size()\}\})</h3>
-    <a name="\{\{ category_name | slugize \}\}"></a>
-    {\%\for post in site.categories[category_name] \%\}
-    <article class="archive-item">
-      <h4><a href="\{\{ site.baseurl \}\}\{\{ post.url \}\}">\{\{ post.title \}\}</a></h4>
-    </article>
-    {\%\endfor \%\}
-  </div>
-{\%\endfor \%\}
+            {% comment %} group by year {% endcomment %}
+            {%- assign _currentdate = _article.date | date: '%Y' -%}
+            {%- if _currentdate != _date -%}
+                {%- unless forloop.first -%}</section>{%- endunless -%}
+                <section>
+                <span class="fa listing-seperator">
+                    <span class="category-text">{{ _currentdate }}</span>
+                </span>
+                {%- assign _date = _currentdate -%}
+            {%- endif -%}
+
+                <div class="post-preview item" data-cotegories="{{ _cotegories }}">
+                    <a href="{{ _article.url | prepend: site.baseurl }}">
+                        <h2 class="post-title">
+                            {{ _article.title }}
+                        </h2>
+                        {% if _article.subtitle %}
+                        <h3 class="post-subtitle">
+                            {{ _article.subtitle }}
+                        </h3>
+                        {% endif %}
+                    </a>
+                    <hr>
+                </div>
+            {%- if forloop.last -%}</section>{%- endif -%}
+            {% endfor %}
+            </div>
+        </div>
+    </div>
 </div>
