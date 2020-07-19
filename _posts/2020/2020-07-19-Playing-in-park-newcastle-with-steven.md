@@ -36,7 +36,7 @@ Sally是最开始想尝试大鱼排的，被拦了下来，
 ![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGosally with out foods.png){: width="300px" height="300px"}
 Sally似乎略显失望。
 
-![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGosally need food mores.png){: width="300px" height="300px"}
+![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGosally need food mores.png)
 没有鱼排的人生，是不完整的。
 
 ![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGosally dad happy riding.png)
