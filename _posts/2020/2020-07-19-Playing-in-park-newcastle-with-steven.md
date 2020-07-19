@@ -76,5 +76,3 @@ Sally with Sylvia，一起看鸵鸟
 
 ![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGoqiaoqiaoban twins.png)
 原来这个跷跷板是课转圈圈的
-
-<img src="https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGoselene%20eating23.png" alt="img" style="zoom:40%;" />
