@@ -21,22 +21,22 @@ tags:
 Selene后续还解决了几个炸虾片，几块西瓜，浪费了一地的葡萄。有意思的是，她每次抓很多葡萄放到嘴里，最后吃的没有味道了，就把皮给吐出来。而且，从更早一些就注意到他们又吃葡萄，桔子吐皮儿的习惯了。
 ![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGoselene eating 11.png){: width="400px" height="400px"}
 
-![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGoselene eating23.png){: width="400px" height="400px"}
+![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGoselene eating23.png){: width="300px" height="300px"}
 一路游玩都拿着她的鱼片
 
 
-![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGoselene mama walking.png){: width="500px" height="500px"}
+![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGoselene mama walking.png){: width="400px" height="400px"}
 妈妈，Selene和鱼片。
 
 
 ### Sally
 Sally是最开始想尝试大鱼排的，被拦了下来，
-![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGo20200719230006.png)
+![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGo20200719230006.png){: width="300px" height="300px"}
 
-![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGosally with out foods.png)
+![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGosally with out foods.png){: width="300px" height="300px"}
 Sally似乎略显失望。
 
-![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGosally need food mores.png)
+![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGosally need food mores.png){: width="300px" height="300px"}
 没有鱼排的人生，是不完整的。
 
 ![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGosally dad happy riding.png)
