@@ -16,4 +16,26 @@ tags:
 
 公园的设施还比较齐全，孩子们玩得很开心。
 
+图片区：
+
+<img src="D:\images\markdown-2020images\image-20200720002923621.png" alt="image-20200720002923621" style="zoom: 20%;" />
+
+和Susan一家人合影
+
+<img src="https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGo2020 1sylvia david babies family photo .png" style="zoom:20%;" />
+
+宝宝们吃的很忙
+
+<img src="https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGoSelene with susan son.png" style="zoom:25%;" />
+
+不得不说，Susan这个手机app，拍出来真的很美化。以下是我手机拍的
+
+<img src="D:\images\markdown-2020images\image-20200720005715142.png" alt="image-20200720005715142" style="zoom:20%;" />
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGo2020selene sports 2.png" style="zoom:30%;" />
+
+
+
 
