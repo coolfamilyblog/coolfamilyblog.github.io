@@ -18,8 +18,7 @@ excerpt: 针对不同的主题，在家庭内部进行照片评选活动。然�
 
 ### 我哭得最伤心
 最近去幼儿园了，似乎这样的素材一下子多了起来。
-![](https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGo2020sally cry in CC.png)
-
+<img src="https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGo2020sally cry in CC.png" style="zoom:25%;" />
 ### 我睡的最香
 
 ### 我笑的最开心
