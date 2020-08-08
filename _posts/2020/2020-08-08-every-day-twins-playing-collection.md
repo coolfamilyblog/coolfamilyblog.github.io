@@ -26,6 +26,8 @@ excerpt: 用一篇博客来记录宝宝们的在家里的日常活动
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/52iz0h" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
+<div><iframe width="560" height="315" src="https://www.youtube.com/embed/DC2orqSs81Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 <img src="https://cdn.jsdelivr.net/gh/davidnsw/2020images/PicGo202008 babay playing with legaotoy1.png" style="zoom:20%;" />
 
 
@@ -41,4 +43,4 @@ excerpt: 用一篇博客来记录宝宝们的在家里的日常活动
 <div style="width:100%;height:0px;position:relative;padding-bottom:173.913%;"><iframe src="https://streamable.com/e/xfmtbw" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DC2orqSs81Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
